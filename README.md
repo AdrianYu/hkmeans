@@ -7,6 +7,7 @@ The main differences between this module and the [VLFeat Hierarchical integer k-
 
 # Reference
 Arthur, D., & Vassilvitskii, S. (2007). k-means++: the advantages of careful seeding. Symposium on Discrete Algorithms.
+
 Elkan, C. (2003). Using the Triangle Inequality to Accelerate k-Means. International Conference on Machine Learning.
  
 
